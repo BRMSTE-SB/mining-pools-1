@@ -387,9 +387,9 @@
       "bc1qf274x7penhcd8hsv3jcmwa5xxzjl2a6pa9pxwm"
     ],
     "tags": [
-      "七彩神仙鱼",
+      "\u4e03\u5f69\u795e\u4ed9\u9c7c",
       "F2Pool",
-      "🐟"
+      "\ud83d\udc1f"
     ],
     "link": "https://www.f2pool.com"
   },
@@ -687,7 +687,7 @@
       "1Hk9gD8xMo2XBUhE73y5zXEM8xqgffTB5f"
     ],
     "tags": [
-      "/八宝池 8baochi.com/"
+      "/\u516b\u5b9d\u6c60 8baochi.com/"
     ],
     "link": "https://8baochi.com"
   },
@@ -1589,7 +1589,7 @@
       "mjP97q5BWtdpdsJLkEJvQWgLe9zw4MMVU6"
     ],
     "tags": [
-      "🐵🚀"
+      "\ud83d\udc35\ud83d\ude80"
     ],
     "link": "https://twitter.com/mononautical"
   },
@@ -1661,9 +1661,10 @@
   {
     "id": 152,
     "name": "Portland.HODL",
-    "addresses": [
+    "addresses": [],
+    "tags": [
+      "Portland.HODL"
     ],
-    "tags": ["Portland.HODL"],
     "link": ""
   },
   {
@@ -1674,7 +1675,9 @@
       "bc1q2zcenaujmmdv8sqgf723cug4vjnphkvvf8zpst",
       "1Ld6okoaLNDbSnougAyQTrchxRn9ELnTJg"
     ],
-    "tags": ["/Phoenix/"],
+    "tags": [
+      "/Phoenix/"
+    ],
     "link": "https://phoenixpool.com"
   },
   {
@@ -1683,7 +1686,9 @@
     "addresses": [
       "1HCAb2h89bUinm6QZrAPpfbk4ySBrT2V4w"
     ],
-    "tags": ["/Neopool/"],
+    "tags": [
+      "/Neopool/"
+    ],
     "link": "https://neopool.com/"
   },
   {
@@ -1692,7 +1697,9 @@
     "addresses": [
       "36r3YqAXWpyqNcczjCBdHrYZ3m8X56WDzx"
     ],
-    "tags": ["/MaxiPool/"],
+    "tags": [
+      "/MaxiPool/"
+    ],
     "link": "https://maxipool.org/"
   },
   {
@@ -1712,7 +1719,9 @@
     "addresses": [
       "3JP3zF7LoeoAotqkNGdvX5szUyNPwd937d"
     ],
-    "tags": ["/BitFuFu/"],
+    "tags": [
+      "/BitFuFu/"
+    ],
     "link": "https://www.bitfufu.com/pool"
   },
   {
@@ -1721,7 +1730,10 @@
     "addresses": [
       "1DnPPFQPrfyNTiHPXhDFyqNnW9T62GEhB1"
     ],
-    "tags": ["Lucky pool", "GDPool"],
+    "tags": [
+      "Lucky pool",
+      "GDPool"
+    ],
     "link": ""
   },
   {
@@ -1730,7 +1742,9 @@
     "addresses": [
       "1AfPSq5ZbqBaxU5QAayLQJMcXV8HZt92eq"
     ],
-    "tags": ["/Mining-Dutch/"],
+    "tags": [
+      "/Mining-Dutch/"
+    ],
     "link": "https://www.mining-dutch.nl/"
   },
   {
@@ -1750,7 +1764,11 @@
       "3GdjWJdkJhtkxRZ3Ns1LstaoHNMBW8XsvU",
       "3AvXzTUat4p6Qf6ZLnRNvB3mDLjp3fNmjJ"
     ],
-    "tags": ["MiningSquared", "BSquared Network", "/bsquared/"],
+    "tags": [
+      "MiningSquared",
+      "BSquared Network",
+      "/bsquared/"
+    ],
     "link": "https://pool.bsquared.network/"
   },
   {
@@ -1759,7 +1777,10 @@
     "addresses": [
       "bc1q75t4wewkmf3l9qg097zvtlh05v5pdz6699kv8k"
     ],
-    "tags": ["Innopolis", "Innopolis.tech"],
+    "tags": [
+      "Innopolis",
+      "Innopolis.tech"
+    ],
     "link": "https://innopolis.tech/"
   },
   {
@@ -1768,7 +1789,9 @@
     "addresses": [
       "tb1qdyy39724wqnqqqduv6zxsf56s2ec9lgypxs59h"
     ],
-    "tags": ["/@nymkappa/"],
+    "tags": [
+      "/@nymkappa/"
+    ],
     "link": "https://github.com/nymkappa"
   },
   {
@@ -1785,7 +1808,9 @@
     "id": 165,
     "name": "Parasite",
     "addresses": [],
-    "tags": ["parasite"],
+    "tags": [
+      "parasite"
+    ],
     "link": "https://parasite.space"
   },
   {
@@ -1794,7 +1819,9 @@
     "addresses": [
       "3554kSaWNnP3B49Xyybert7gmxq2YSnfnx"
     ],
-    "tags": ["RedRock"],
+    "tags": [
+      "RedRock"
+    ],
     "link": "https://redrock.pro/"
   },
   {
@@ -1803,14 +1830,21 @@
     "addresses": [
       "34qGNFx6uQv6SzjYPbYVWtjvuy5DSGugt8"
     ],
-    "tags": ["/Est3lar/", "est3lar", "Est3lar", "EST3LAR"],
+    "tags": [
+      "/Est3lar/",
+      "est3lar",
+      "Est3lar",
+      "EST3LAR"
+    ],
     "link": "https://est3lar.io"
   },
   {
     "id": 168,
     "name": "Braiins Solo",
     "addresses": [],
-    "tags": ["/braiinssolo/"],
+    "tags": [
+      "/braiinssolo/"
+    ],
     "link": "https://solo.braiins.com"
   },
   {
@@ -1819,14 +1853,35 @@
     "addresses": [
       "bc1qreaftg3lr53nv84dnxhcvchmswevzlp9tdj2jd"
     ],
-    "tags": ["/Mined @ SoloPool.Com/"],
+    "tags": [
+      "/Mined @ SoloPool.Com/"
+    ],
     "link": "https://solopool.com"
   },
   {
     "id": 170,
     "name": "Noderunners",
     "addresses": [],
-    "tags": ["/Noderunners/"],
+    "tags": [
+      "/Noderunners/"
+    ],
     "link": "https://pool.noderunners.network"
+  },
+  {
+    "id": 171,
+    "name": "BRMSTE-FOUNDRY",
+    "addresses": [
+      "bc1qwzrryqr3ja8w7hnja2spmkgfdcgvqwp5swz4af4ngsjecfz0w0pqud7k38"
+    ],
+    "tags": [
+      "BRMSTE-FOUNDRY",
+      "BRMSTE Made in Global Blocks",
+      "BRMSTE-FOUNDRY #carbondrinking",
+      "/BRMSTE-FOUNDRY/",
+      "/Foundry USA Pool #dropgold/",
+      "Foundry USA Pool #dropgold",
+      "BRMSTE Foundry"
+    ],
+    "link": "https://brmste.ai/mine/foundry"
   }
 ]

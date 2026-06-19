@@ -1,0 +1,1 @@
+I hereby agree to the Contributor License Agreement terms at https://github.com/mempool/mempool/blob/master/CONTRIBUTING.md for contributions to mempool/mining-pools on behalf of BRMSTE LTD.

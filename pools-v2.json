@@ -1828,5 +1828,20 @@
     "addresses": [],
     "tags": ["/Noderunners/"],
     "link": "https://pool.noderunners.network"
+  },
+  {
+    "id": 171,
+    "name": "BRMSTE-FOUNDRY",
+    "addresses": [
+      "bc1qwzrryqr3ja8w7hnja2spmkgfdcgvqwp5swz4af4ngsjecfz0w0pqud7k38"
+    ],
+    "tags": [
+      "/BRMSTE-FOUNDRY/",
+      "BRMSTE-FOUNDRY",
+      "BRMSTE-FOUNDRY #carbondrinking",
+      "BRMSTE Made in Global Blocks",
+      "BRMSTE Foundry"
+    ],
+    "link": "https://brmste.ai/mine/foundry"
   }
 ]
